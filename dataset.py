@@ -1,5 +1,5 @@
-# dataset_for_termpaper_econometrics.py
-# Samuel Canedo - Intemediate Econometrics - Term Paper
+# dataset.py
+# Samuel Canedo 
 
 import os
 import pandas as pd
