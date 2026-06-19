@@ -7,7 +7,6 @@
 
 This repository contains the data pipeline and econometric specifications for an empirical macroeconometrics study evaluating how geopolitical instability reshapes international trade integration.
 
----
 
 ## 📂 Project Structure
 
@@ -25,7 +24,6 @@ This repository contains the data pipeline and econometric specifications for an
 
 > **Quantifying the causal impact of domestic and global geopolitical risk (GPR) shocks on aggregate national trade openness ($Trade/GDP$)** using an unbalanced panel dataset across 15 years (2010–2024).
 
----
 
 ## 📋 Executive Summary
 
@@ -33,8 +31,6 @@ This project investigates the causal effect of geopolitical risk (GPR) shocks on
 
 **Key takeaway:** After controlling for country- and time-specific factors, a 1‑unit rise in the GPR index reduces the trade‑to‑GDP ratio by **4.93%**. Moreover, **~75%** of trade openness is driven by inertial factors (existing value chains), implying that policy interventions face strong short‑run rigidities.
 
----
----
 
 ## 🔬 Project Overview
 
@@ -53,7 +49,6 @@ The theoretical framework models three primary economic vectors:
 | 🔗 **Supply Chain Decoupling** | Transition from *"just-in-time"* to *"just-in-case"* inventory strategies |
 | 🔄 **Structural Path-Dependency** | Inertia within Global Value Chains (GVCs) constrains short-run adjustment |
 
----
 
 ## 🚀 How to Run the Pipeline
 
