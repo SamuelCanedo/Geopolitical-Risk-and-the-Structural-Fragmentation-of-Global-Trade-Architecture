@@ -58,6 +58,7 @@ Ensure you have **Python 3.x** installed with the required libraries:
 
 ```bash
 pip install numpy pandas scikit-learn openpyxl statsmodels linearmodels stargazer
+```
 
 ## 📚 References
 Primary Data Sources
