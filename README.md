@@ -20,7 +20,7 @@ This repository contains the data pipeline and econometric specifications for an
 ├── docs/
 │   └── paper_term_int_econ.pdf                # Full Research Paper (PDF)
 └── README.md
-
+```
 
 > **Quantifying the causal impact of domestic and global geopolitical risk (GPR) shocks on aggregate national trade openness ($Trade/GDP$)** using an unbalanced panel dataset across 15 years (2010–2024).
 
